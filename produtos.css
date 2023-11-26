@@ -114,3 +114,16 @@ form label, form p {
 .checkbox {
     margin: 20px 0;
 }
+<p class="paragrafo">
+
+p {
+    color: blue;
+}
+
+p.paragrafo {
+    color: red;
+}
+
+.paragrafo {
+    color: purple;
+}
