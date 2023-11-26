@@ -116,14 +116,3 @@ form label, form p {
 }
 <p class="paragrafo">
 
-p {
-    color: blue;
-}
-
-p.paragrafo {
-    color: red;
-}
-
-.paragrafo {
-    color: purple;
-}
